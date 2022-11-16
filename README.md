@@ -1,2 +1,3 @@
-# cypress-udemy
-cypress course at udemy
+# cypress practical automation
+cypress on different test pages
+
